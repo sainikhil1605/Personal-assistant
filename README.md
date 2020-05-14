@@ -30,9 +30,11 @@ Pre-required packages are:
 The following are the available features:
 <ul>
 <li>Play Music</li>
-<li>Search Wekipedia>
+<li>Search Wikipedia</li>
 <li>Open a app in your pc</li>
 <li>Get time</li>
+<li>Tell me a joke</li>
+  <li>Google search</li>
 </ul>
 
 
