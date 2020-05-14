@@ -2,18 +2,24 @@
 Python based Personal assistant
 This is a Python Based Personal Assistant
 Pre-required packages are:
-1)Pyttsx3<br\>
+1)Pyttsx3
 
 
 ```pip install pyttsx3```
+
+
 2)Speechrecognition module
 
 
 ```pip install speechRecognition```
+
+
 3)Wikipedia
 
 
 ```pip install wikipedia```
+
+
 4)Pyaudio
 
 
@@ -23,9 +29,11 @@ Pre-required packages are:
 
 The following are the available features:
 <ul>
-<li>1.Play Music</li>
-<li>2.Search Wekipedia>
-<li>3.Open a app in your pc</li>
-<li>4.Get time</li>
+<li>Play Music</li>
+<li>Search Wekipedia>
+<li>Open a app in your pc</li>
+<li>Get time</li>
+</ul>
+
 
 Fell free to fork for any changes
