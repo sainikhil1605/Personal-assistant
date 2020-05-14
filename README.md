@@ -2,7 +2,7 @@
 Python based Personal assistant
 This is a Python Based Personal Assistant
 Pre-required packages are:
-1)Pyttsx3
+1)Pyttsx3\s\s
 ```pip install pyttsx3```
 2)Speechrecognition module
 ```pip install speechRecognition```
