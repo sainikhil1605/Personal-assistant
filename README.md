@@ -44,7 +44,7 @@ The following are the available features:
 <li>Get time</li>
 <li>Tell me a joke</li>
   <li>Google search</li>
-  <li>Set for minutes</li>
+  <li>Set timer for minutes</li>
 </ul>
 
 
