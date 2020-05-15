@@ -27,6 +27,14 @@ Pre-required packages are:
 ```pipwin install pyaudio```
 
 
+5)Google
+
+
+```pip install beautifulsoup4```
+
+```pip install google```
+
+
 The following are the available features:
 <ul>
 <li>Play Music</li>
