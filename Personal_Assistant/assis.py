@@ -78,6 +78,19 @@ if __name__ == "__main__":
             speak("According to Wikipedia")
             print(results)
             speak(results)
+        elif 'set timer for' in query:
+            import time
+            query=(query.replace("set timer for ",""))
+            query=int(query.replace("mins",""))
+            mins = 1
+            # Loop until we reach query minutes running
+            print("Running Time for {}".format(query))
+            while mins != query+1:
+                print("{}".format(mins))
+                # Sleep for a minute
+                time.sleep(60)
+                # Increment the minute total
+                mins += 1
         elif 'search google' in query:
             speak('Searching Google...')
             query = query.replace("google", "")
@@ -127,5 +140,7 @@ if __name__ == "__main__":
                 print(j)
         else:
             speak("Sorry Didn't get you speak again")
+        print("Done with the query waiting for further instructions")
+        speak("Done with the query waiting for further instructions")
 
 
