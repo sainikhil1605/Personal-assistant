@@ -1,6 +1,7 @@
 # Personal-assistant
 Python based Personal assistant
-This is a Python Based Personal Assistant
+
+
 Pre-required packages are:
 1)Pyttsx3
 
